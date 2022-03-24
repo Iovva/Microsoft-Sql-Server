@@ -11,3 +11,4 @@ The queries contain, but are not limited to:
 
 Diagram:
 
+![database](https://github.com/Iovva/Microsoft-Sql-Server/blob/main/Diagram.png)
